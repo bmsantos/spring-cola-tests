@@ -4,10 +4,10 @@
 
     <groupId>com.github.bmsantos</groupId>
     <artifactId>spring-cola-tests</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <properties>
-        <cola.version>0.0.2</cola.version>
+        <cola.version>0.0.3</cola.version>
         <spring.version>4.1.2.RELEASE</spring.version>
     </properties>
 
@@ -39,7 +39,7 @@
         </dependency>
         <dependency>
             <groupId>com.github.bmsantos</groupId>
-            <artifactId>cola-maven-plugin</artifactId>
+            <artifactId>cola-tests</artifactId>
             <version>${cola.version}</version>
         </dependency>
 

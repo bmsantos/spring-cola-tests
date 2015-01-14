@@ -17,9 +17,9 @@ import org.springframework.web.context.WebApplicationContext;
 
 import cola.ide.BaseColaTest;
 
-import com.github.bmsantos.maven.cola.story.annotations.Given;
-import com.github.bmsantos.maven.cola.story.annotations.Then;
-import com.github.bmsantos.maven.cola.story.annotations.When;
+import com.github.bmsantos.core.cola.story.annotations.Given;
+import com.github.bmsantos.core.cola.story.annotations.Then;
+import com.github.bmsantos.core.cola.story.annotations.When;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration
