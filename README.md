@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/bmsantos/spring-cola-tests.svg?branch=master)](https://travis-ci.org/bmsantos/spring-cola-tests)
 
+Questions? [![Join Chat](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/bmsantos/cola-maven-plugin)
+
 spring-cola-tests
 =================
 
