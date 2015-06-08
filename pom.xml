@@ -4,10 +4,10 @@
 
     <groupId>com.github.bmsantos</groupId>
     <artifactId>spring-cola-tests</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0</version>
 
     <properties>
-        <cola.version>0.1.0</cola.version>
+        <cola.version>0.2.0</cola.version>
         <spring.version>4.1.2.RELEASE</spring.version>
     </properties>
 
